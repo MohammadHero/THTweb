@@ -1,0 +1,12 @@
+SUDO_ID = {468354860,485130870,421499390,391287250} --آیدی سودو های ربات (ربات cli , api  قرار بدید)
+Full_Sudo = {468354860} -- آیدی سودو اصلی
+TD_ID = 485130870 -- آیدی ربات
+Sudoid = 468354860 -- آیدی سودو اصلی
+BotHelper = 421499390 -- آیدی هلپر
+UserBotHelper = '@matadorhelp3r_bot' -- یوزرنیم هلپر
+LinkSuppoRt = 'https://t.me/joinchat/G-qHLFJzUTyOx4MREjaFlg' -- لینک گروه ساپورت
+UserSudo = '@RexProgs' -- یوزرنیم سازنده
+PvUserSudo = '@Farzin_Pv_bot' -- پیام رسان سازنده
+Channel = '@RexCompany' -- یوزرنیم کانال 
+ChannelInline = 'RexCompany' --یوزنیم کانال بدون @
+token = '421499390:AAHK3xQPcdH9-qIUipPZhBfm04ykt2tmcJE' -- توکن ربات api
