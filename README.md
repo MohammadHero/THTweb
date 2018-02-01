@@ -14,7 +14,7 @@
  1.ابتدا سورس را با دستور زیر کلون کنید.
  
  ```sh
-git clone https://github.com/THTweb/THTweb
+git clone https://github.com/MohammadHero/THTweb
  ```
  
  2. وارد مسیر‌ زیر میشوید و اطلاعات خواسته شده را پر میکنید .
