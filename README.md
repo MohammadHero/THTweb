@@ -47,4 +47,6 @@ screen ./Autolaunch
  
 ▪️Channel: [@THTweb](https://telegram.me/THTweb)
 
+▪️ تشکر ویژه از سورس بی همتای رکس کمپانی :)
+
 # Good Luck :)
